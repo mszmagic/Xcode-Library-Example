@@ -15,7 +15,7 @@ struct Cat: Identifiable {
     var catColor: Color
     var catFavoriteToy: String
     
-    static let example = Cat(catEmoji: "🐈", catName: "Cat 3", catColor: .orange, catFavoriteToy: "Cat house")
+    static let example = Cat(catEmoji: "😸", catName: "ネコノヒー", catColor: .orange, catFavoriteToy: "ペット小屋")
 }
 
 let allCats = [
